@@ -10,7 +10,7 @@
 - ⚡  i'm secretly SpiderMan... but don't tell anyone
 
 <div style="margin: 0 auto; margin: 8px;">
-    <img style="width: 85%; border-radius: 2%;" src="/banner-github.jpg" alt="Banner perfil">
+    <img style="width: 85%; border-radius: 2%;" src="/banner-GitHub.jpg" alt="Banner perfil">
 </div>
 
 <a href="https://www.github.com/MauDevp" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@
     </a> 
     <a href="https://wa.me/523343453963" target="_blank" rel="noreferrer"> 
         <picture> 
-            <img src="whatsapp.svg" width="32" height="32" /> 
+            <img src="/whatsapp.svg" width="32" height="32" /> 
         </picture> 
     </a> 
 </p>
