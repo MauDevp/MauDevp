@@ -148,7 +148,8 @@
 </a>
 
 <a href="https://github.com/MauDevp" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauDevp&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauDevp&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+
 </a>
 
 ### Support Me
