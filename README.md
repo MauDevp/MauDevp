@@ -1,85 +1,128 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mauricio Ramon Silva Sandoval
+# Hi, My name is Mauricio Ramon Silva Sandoval
 
 ## Frontend Web developer and Mobile Developer
 
-¡Hola! Soy Mauricio, un apasionado desarrollador web y técnico en soporte técnico. Mi objetivo es combinar mis habilidades técnicas con mi experiencia en liderazgo para contribuir al éxito de proyectos web emocionantes.
+¡Hola! Soy Mauricio, un apasionado desarrollador web y técnico en soporte técnico. Mi objetivo es combinar mis habilidades técnicas con mi experiencia en liderazgo para contribuir al éxito de proyectos web emocionantes.  
 
 - 🌍  I'm based in México
-- ✉️  You can contact me at [mauricioramonsilvasandoval@gmail.com](mailto:mauricioramonsilvasandoval@gmail.com)
+- ✉️  You can contact me at [email](mailto:mauricioramonsilvasandoval@gmail.com)
 - 🧠  I'm learning React.js frameworks
-- ⚡  i'm secretly SpiderMan... but don't tell anyone
+- ⚡  i'm secretly SpiderMan... but don't tell anyone  
 
-<div style="margin: 0 auto; margin: 8px;">
-    <img style="width: 85%; border-radius: 2%;" src="/banner-GitHub.jpg" alt="Banner perfil">
-</div>
-
+<div align="center">
+    <picture>
+        <img style="width: 94%;" src="/banner-GitHub.jpg" alt="Banner perfil">
+    </picture>
 <a href="https://www.github.com/MauDevp" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/MauDevp?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" />
+    <picture>
+        <img src="https://img.shields.io/github/followers/MauDevp?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" />
+    </picture>
 </a>
 <a href="https://www.x.com/MauricioRamonS3" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/MauricioRamonS3?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"
-/>
+    <picture>
+        <img src="https://img.shields.io/twitter/follow/MauricioRamonS3?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"/>
+    </picture>
 </a>
+</div>
+
 
 ### Skills
 
-<p align="left">
+<p align="left"> 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+    </picture>
 </a>
 <a href="https://apple.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" />
+    </picture>
 </a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+    </picture>
 </a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+    </picture>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+    </picture>
 </a
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+    </picture>
 </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+    </picture>
 </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+    </picture>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    </picture>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    </picture>
 </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    </picture>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" />
+    </picture>
 </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="React Native" />
+    <picture>
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="React Native" />
+    </picture>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="36" height="36" alt="Tailwind" />
+    <picture>
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="36" height="36" alt="Tailwind" />
+    </picture>
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="36" height="36" alt="Next.js" />
+    <picture>
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="36" height="36" alt="Next.js" />
+    </picture>
 </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="36" height="36" alt="Adobe XD" />
+    <picture>
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="36" height="36" alt="Adobe XD" />
+    </picture>
 </a>
 <a href="https://www.adobe.com/mx/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
+    </picture>
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+    </picture>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    <picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    </picture>
 </a>
 </p>
 
@@ -126,28 +169,6 @@
 - Planificación Estratégica: Lideré la creación, planificación y ejecución del proyecto con Dart, Flutter y Git.
 - Tecnologías: Dart, Flutter, Git.
 
-### Ingeniero de Soporte Técnico
-
-**ICSI Comercial**
-
-- Mantenimiento a equipos de cómputo de consultorios.
-- Configuración, cableado e instalación de redes de equipos de cómputo y VoIP.
-
-### Ingeniero de Soporte y Servicio Técnico
-
-**Palacio de Hierro**
-
-- Mantenimientos, reparaciones y configuraciones a todos los equipos de cómputo y puntos de venta.
-- Monitoreo de servidores y puntos de venta.
-- Tecnologías: HTML, CSS, JavaScript, MySQL.
-
-### Servicio Técnico
-
-**SERIO**
-
-- Diseño y programación en proyecto con manejo de arduinos.
-- Trabajo y colaboración en equipo.
-- Tecnologías: Arduino, [otras tecnologías utilizadas].
 
 ## Proyectos Destacados
 
@@ -192,10 +213,14 @@ WebStoreShopi es una plataforma de compras conectada a una api de prueba, para p
 ## My current statistics from my git
 
 <a href="https://github.com/MauDevp" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauDevp&langs_count=5&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages%20and%20Frameworks" alt="Top Languages" />
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauDevp&langs_count=5&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages%20and%20Frameworks" alt="Top Languages" />
+    </picture>
 </a>
 <a href="https://github.com/MauDevp">
-    <img src="https://github-readme-stats.vercel.app/api?username=MauDevp&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="MauDevp GitHub stats" />
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api?username=MauDevp&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="MauDevp GitHub stats" />
+    </picture>
 </a>
 
 
