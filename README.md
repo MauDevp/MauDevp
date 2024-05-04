@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mauricio Ramon Silva Sandoval
 
-## Web developer and Mobile Developer
+## Frontend Web developer and Mobile Developer
 
 ¡Hola! Soy Mauricio, un apasionado desarrollador web y técnico en soporte técnico. Mi objetivo es combinar mis habilidades técnicas con mi experiencia en liderazgo para contribuir al éxito de proyectos web emocionantes.
 
