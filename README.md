@@ -148,10 +148,25 @@
 
 ## Proyectos Destacados
 
-- [Nombre del Proyecto](Enlace al proyecto en GitHub): Breve descripción y tecnologías utilizadas.
-- [Nombre del Proyecto 2](Enlace al proyecto en GitHub): Breve descripción y tecnologías utilizadas.
+- [WebStoreShopi](https://github.com/MauDevp/WebStoreShopi): Una tienda web para poner en practica mis skills de frontend developer
+- [Todo List Web](https://github.com/MauDevp/todo_list_love): Aplicación web con una lista de tareas para completar para sus tareas pendientes
 
-¡Estoy emocionado por seguir aprendiendo y contribuir al mundo del desarrollo web!
+  ¡Estoy emocionado por seguir aprendiendo y contribuir al mundo del desarrollo web!
+  
+## Hackathones
+
+- [Genius Arena Hackathon 2024 - Google Cloud](https://hackathon.genius-arena.com/hackathon/desarrollando-para-un-futuro-sustentable-google-cloud/) - [BioDefenders Proyect](https://github.com/Bielma/bio-defenders-frontend)
+  Crear y prototipar soluciones tecnológicas innovadoras que contribuyan a mitigar el cambio climático y adaptarse a sus efectos.
+  
+  
+- [Genius Arena Hackathon 2022 - HCL](https://hackathon.talent-network.org/tracks/my-learning-coach-educacion-gratuita-para-estudiantes/) - [Ayuda-Re Proyect](https://app.genius-arena.com/participation_info/4/talent-hackathon?team_id=2447&ppro_id=1211)
+  Realizar una plataforma educativa gratuita para fortalecer conocimientos como matemáticas, ciencias naturales, idiomas, etc.
+  
+- [Nasa Space Apps 2021](https://2021.spaceappschallenge.org/challenges/statements/lunar-surface-operations-real-time-collaboration/details) - [APOLOTEAM](https://docs.google.com/presentation/d/15g7p-f3fw8Lc89JUatUDC9Xq0X_JKFMVN_Lm2Dnyyq8/edit#slide=id.p)
+  Crear una aplicación que pueda integrar inmediatamente y sin problemas la información de registro de la consola de muchos usuarios (al menos más de 100 usuarios en la misma red).
+  
+- [Círculo de Crédito Hackathon 2021](https://youtu.be/4TjBIYtkIyc) - [CybSec Proyect](https://www.youtube.com/watch?v=nOGCNlMylRs)
+  Crear mecanismos alternativos de confianza entre persona-persona y persona-empresas, en un contexto de tecnología post pandemia para conocer a los usuarios, compartir datos, verificar la identidad y validar      credenciales o documentación en línea de forma segura y sin comprometer la privacidad.
 
 ---
 <br>
