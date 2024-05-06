@@ -10,19 +10,17 @@
 - ⚡  i'm secretly SpiderMan... but don't tell anyone  
 
 <div align="center">
-    <picture>
-        <img style="width: 94%;" src="/banner-GitHub.jpg" alt="Banner perfil">
-    </picture>
-<a href="https://www.github.com/MauDevp" target="_blank" rel="noreferrer">
-    <picture>
-        <img src="https://img.shields.io/github/followers/MauDevp?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" />
-    </picture>
-</a>
-<a href="https://www.x.com/MauricioRamonS3" target="_blank" rel="noreferrer">
-    <picture>
-        <img src="https://img.shields.io/twitter/follow/MauricioRamonS3?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"/>
-    </picture>
-</a>
+    <img style="width: 94%;" src="/banner-GitHub.jpg" alt="Banner perfil">
+    <a href="https://www.github.com/MauDevp" target="_blank" rel="noreferrer">
+        <picture>
+            <img src="https://img.shields.io/github/followers/MauDevp?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" />
+        </picture>
+    </a>
+    <a href="https://www.x.com/MauricioRamonS3" target="_blank" rel="noreferrer">
+        <picture>
+            <img src="https://img.shields.io/twitter/follow/MauricioRamonS3?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"/>
+        </picture>
+    </a>
 </div>
 
 
