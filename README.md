@@ -193,15 +193,15 @@
 ---
 <br>
 
-## My current statistics of the project I am on GitHub
+## Mis estadísticas actuales para el proyecto en el que estoy trabajando con github
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MauDevp/WebStoreShopi)
 ![GitHub language count](https://img.shields.io/github/languages/count/MauDevp/WebStoreShopi)
 ![GitHub top language](https://img.shields.io/github/languages/top/MauDevp/WebStoreShopi)
 
-### [WebStoreShopi](https://github.com/MauDevp/WebStoreShopi)
+### [movie-home-page](https://github.com/MauDevp/movie-home-page)
 
-WebStoreShopi es una plataforma de compras conectada a una api de prueba, para poner en practica mis habilidades de Frontend Developer.
+Movie-Home-Page es una aplicación desarrollada utilizando React y Vite, conectada a la API de The Movie Database. Permite a los usuarios explorar una lista de películas populares, ver detalles específicos de cada película y realizar búsquedas por título. El proyecto se destaca por su interfaz intuitiva, un manejo organizado en Git y la aplicación de mejores prácticas en el desarrollo frontend, representando un excelente ejercicio para demostrar mis habilidades como Frontend Developer.
 
 ---
 
