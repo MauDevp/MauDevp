@@ -18,7 +18,7 @@
     </a>
     <a href="https://www.x.com/MauricioRamonS3" target="_blank" rel="noreferrer">
         <picture>
-            <img src="https://img.shields.io/twitter/follow/MauricioRamonS3?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"/>
+            <img src="https://img.shields.io/twitter/follow/MauricioRamonS3?logo=x&style=for-the-badge&color=ef4444&labelColor=22272e"/>
         </picture>
     </a>
 </div>
