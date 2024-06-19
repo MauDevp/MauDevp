@@ -170,6 +170,7 @@
 
 ## Proyectos Destacados
 
+- [movie-home-page](https://github.com/MauDevp/movie-home-page): Movie-Home-Page es una aplicación React conectada a la API de The Movie Database para explorar películas populares y detalles
 - [WebStoreShopi](https://github.com/MauDevp/WebStoreShopi): Una tienda web para poner en practica mis skills de frontend developer
 - [Todo List Web](https://github.com/MauDevp/todo_list_love): Aplicación web con una lista de tareas para completar para sus tareas pendientes
 
@@ -208,7 +209,7 @@ Movie-Home-Page es una aplicación desarrollada utilizando React y Vite, conecta
 <br>
 
 
-## My current statistics from my git
+## Mis estadísticas actuales de mi git
 
 <a href="https://github.com/MauDevp" align="left">
     <picture>
