@@ -11,7 +11,7 @@
 - ⚡  i'm secretly SpiderMan... but don't tell anyone  
 
 <div align="center">
-    <img style="width: 94%;" src="/banner-GitHub.jpg" alt="Banner perfil">
+    <img style="width: 94%;" src="/banner-GitHub.png" alt="Banner perfil">
     <a href="https://www.github.com/MauDevp" target="_blank" rel="noreferrer">
         <picture>
             <img src="https://img.shields.io/github/followers/MauDevp?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" />
