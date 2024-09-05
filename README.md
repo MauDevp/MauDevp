@@ -160,6 +160,17 @@
 
 ## Experiencia Profesional
 
+### Frontend Developer
+
+Jul 2024 - Presente
+ 
+**Match**
+
+- Desarrollo de Interfaz de Usuario: Construyo la interfaz de usuario para "Match", una plataforma para mejorar el networking presencial, utilizando React.js, Next.js, Astro, y TailwindCSS.
+- Optimización de Rendimiento: Implemento técnicas como lazy loading para mejorar la velocidad y eficiencia de la aplicación.
+- Colaboración y Diseño: Trabajo junto con un equipo de desarrolladores y diseñadores, y aporto mis habilidades en Figma para el diseño de la interfaz.
+- Estado del Proyecto: El proyecto sigue en fase de desarrollo y está próximo a su lanzamiento.
+
 ### Líder de Proyecto en Desarrollo de Aplicación Móvil
 
 **CoderMe**
@@ -171,6 +182,7 @@
 
 ## Proyectos Destacados
 
+- [Portafolio](https://www.maudevp.tech): Mi portafolio es una aplicación creada con React y Next.js, diseñada para reflejar mi estilo personal y profesional. Ofrece una vista completa de mis proyectos y habilidades, con un diseño intuitivo y atractivo que destaca mi enfoque en el desarrollo.
 - [movie-home-page](https://github.com/MauDevp/movie-home-page): Movie-Home-Page es una aplicación React conectada a la API de The Movie Database para explorar películas populares y detalles
 - [WebStoreShopi](https://github.com/MauDevp/WebStoreShopi): Una tienda web para poner en practica mis skills de frontend developer
 - [Todo List Web](https://github.com/MauDevp/todo_list_love): Aplicación web con una lista de tareas para completar para sus tareas pendientes
@@ -201,9 +213,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/MauDevp/WebStoreShopi)
 ![GitHub top language](https://img.shields.io/github/languages/top/MauDevp/WebStoreShopi)
 
-### [movie-home-page](https://github.com/MauDevp/movie-home-page)
+### [Indigo](https://github.com/MauDevp/indigo)
 
-Movie-Home-Page es una aplicación desarrollada utilizando React y Vite, conectada a la API de The Movie Database. Permite a los usuarios explorar una lista de películas populares, ver detalles específicos de cada película y realizar búsquedas por título. El proyecto se destaca por su interfaz intuitiva, un manejo organizado en Git y la aplicación de mejores prácticas en el desarrollo frontend, representando un excelente ejercicio para demostrar mis habilidades como Frontend Developer.
+Indigo page movies
 
 ---
 
