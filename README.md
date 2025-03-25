@@ -1,8 +1,8 @@
 # Hi, My name is Mauricio Ramon Silva Sandoval
 
-## Frontend Web developer and Mobile Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=EFDC4C&vCenter=true&width=480&lines=I'm+a+frontend+web+developer;And+a+great+coworker.)](https://git.io/typing-svg)
 
-¡Hola! Soy Mauricio, un apasionado desarrollador web y técnico en soporte técnico. Mi objetivo es combinar mis habilidades técnicas con mi experiencia en liderazgo para contribuir al éxito de proyectos web emocionantes.  
+¡Hola! Soy Mauricio, un apasionado desarrollador web y técnico en soporte. Mi objetivo es combinar mis habilidades técnicas con mi experiencia en liderazgo para contribuir al éxito de proyectos web emocionantes.  
 
 - 🌍  I'm based in México
 - 💼  My portfolio is [this](https://www.maudevp.tech)
@@ -158,7 +158,7 @@
 
 ---
 
-## Experiencia Profesional
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=28&duration=3800&pause=300&color=e44d28&vCenter=true&width=480&lines=Experiencia+profesional%3A)](https://git.io/typing-svg)
 
 ### Frontend Developer
 
@@ -180,7 +180,7 @@ Jul 2024 - Presente
 - Tecnologías: Dart, Flutter, Git.
 
 
-## Proyectos Destacados
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=28&duration=3800&pause=300&color=0E70B6&vCenter=true&width=480&lines=Proyectos+destacados%3A)](https://git.io/typing-svg)
 
 - [Portafolio](https://www.maudevp.tech): Mi portafolio es una aplicación creada con React y Next.js, diseñada para reflejar mi estilo personal y profesional. Ofrece una vista completa de mis proyectos y habilidades, con un diseño intuitivo y atractivo que destaca mi enfoque en el desarrollo.
 - [movie-home-page](https://github.com/MauDevp/movie-home-page): Movie-Home-Page es una aplicación React conectada a la API de The Movie Database para explorar películas populares y detalles
@@ -189,7 +189,7 @@ Jul 2024 - Presente
 
   ¡Estoy emocionado por seguir aprendiendo y contribuir al mundo del desarrollo web!
   
-## Hackathones
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=28&duration=3800&pause=300&color=60D9F5&vCenter=true&width=480&lines=Hackathones%3A)](https://git.io/typing-svg)
 
 - [Genius Arena Hackathon 2024 - Google Cloud](https://hackathon.genius-arena.com/hackathon/desarrollando-para-un-futuro-sustentable-google-cloud/) - [BioDefenders Proyect](https://github.com/Bielma/bio-defenders-frontend)
   Crear y prototipar soluciones tecnológicas innovadoras que contribuyan a mitigar el cambio climático y adaptarse a sus efectos.
@@ -207,23 +207,16 @@ Jul 2024 - Presente
 ---
 <br>
 
-## Mis estadísticas actuales para el proyecto en el que estoy trabajando con github
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MauDevp/WebStoreShopi)
-![GitHub language count](https://img.shields.io/github/languages/count/MauDevp/WebStoreShopi)
-![GitHub top language](https://img.shields.io/github/languages/top/MauDevp/WebStoreShopi)
+## En lo que estoy:
 
 ### [Indigo](https://github.com/MauDevp/indigo)
-
-Indigo page movies
 
 ---
 
 <br>
 
 
-## Mis estadísticas actuales de mi git
-
+## Mis estadísticas actuales:
 <a href="https://github.com/MauDevp" align="left">
     <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauDevp&langs_count=5&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages%20and%20Frameworks" alt="Top Languages" />
