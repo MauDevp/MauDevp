@@ -191,6 +191,9 @@ Jul 2024 - Presente
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=28&duration=3800&pause=300&color=60D9F5&vCenter=true&width=480&lines=Hackathones%3A)](https://git.io/typing-svg)
 
+- [Genius Arena Hackathon 2025 - McDonald's](https://hackathon.genius-arena.com/hackathon/the-future-of-feel-good-moments-mcdonalds/) - [McFlurryTS](https://github.com/McFlurryTS/frontend)
+  Desarrollar una aplicación moderna desarrollada para McDonald's, diseñada para mejorar la experiencia del usuario mediante la implementación de estrategias de marketing innovadoras y funcionalidades interactivas.
+
 - [Genius Arena Hackathon 2024 - Google Cloud](https://hackathon.genius-arena.com/hackathon/desarrollando-para-un-futuro-sustentable-google-cloud/) - [BioDefenders Proyect](https://github.com/Bielma/bio-defenders-frontend)
   Crear y prototipar soluciones tecnológicas innovadoras que contribuyan a mitigar el cambio climático y adaptarse a sus efectos.
   
