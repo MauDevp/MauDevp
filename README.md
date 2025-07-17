@@ -5,7 +5,7 @@
 ¡Hola! Soy Mauricio, un apasionado desarrollador web y técnico en soporte. Mi objetivo es combinar mis habilidades técnicas con mi experiencia en liderazgo para contribuir al éxito de proyectos web emocionantes.  
 
 - 🌍  I'm based in México
-- 💼  My portfolio is [this](https://www.maudevp.tech)
+- 💼  My portfolio is [this](https://www.maudev.tech)
 - ✉️  You can contact me at [email](mailto:mauricio@maudevp.tech)
 - 🧠  I'm learning React.js frameworks
 - ⚡  i'm secretly SpiderMan... but don't tell anyone  
