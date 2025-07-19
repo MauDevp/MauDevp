@@ -6,7 +6,7 @@
 
 - 🌍  I'm based in México
 - 💼  My portfolio is [this](https://www.maudev.tech)
-- ✉️  You can contact me at [email](mailto:mauricio@maudevp.tech)
+- ✉️  You can contact me at [email](mailto:mauricioramonsilvasandoval@gmail.com)
 - 🧠  I'm learning React.js frameworks
 - ⚡  i'm secretly SpiderMan... but don't tell anyone  
 
@@ -160,10 +160,29 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=28&duration=3800&pause=300&color=e44d28&vCenter=true&width=480&lines=Experiencia+profesional%3A)](https://git.io/typing-svg)
 
-### Frontend Developer
+### Co-fundador & Lead Frontend Developer
+Abril 2025 - Presente
 
+**BeSeen**
+
+- Liderazgo de Producto y Tecnología: Lidero la arquitectura y desarrollo de la plataforma con Next.js y Tailwind CSS, asegurando el rendimiento y una estética cuidada.
+- Creación de Sistemas de Diseño: Diseño y construyo un sistema de plantillas personalizables, enfocándome en una experiencia de usuario (UX) que empodere la marca personal de los profesionales.
+- Visión Estratégica: Colaboro directamente con un experto en marketing para definir la estrategia de producto, alineando las decisiones técnicas con las necesidades del mercado.
+
+
+### Frontend Developer
+Octubre 2024 - Enero 2025
+
+**Wispok Capital SAPI de CV**
+
+- Desarrollo de Soluciones Financieras: Colaboré en la construcción y mejora de una pasarela de pagos segura, utilizando React y TypeScript para la integración de APIs RESTful.
+- Optimización del Ciclo de Desarrollo: Creé un sistema de componentes reutilizables en Storybook, lo que aceleró la implementación de nuevas funcionalidades en un 30% y reforzó la consistencia visual.
+- Mejora de Código y Escalabilidad: Refactoricé una base de código existente aplicando patrones de diseño modernos, lo que resultó en una mejora de la escalabilidad y una reducción de errores en producción en un 30%.
+
+
+### Frontend Developer
 Jul 2024 - Presente
- 
+
 **Match**
 
 - Desarrollo de Interfaz de Usuario: Construyo la interfaz de usuario para "Match", una plataforma para mejorar el networking presencial, utilizando React.js, Next.js, Astro, y TailwindCSS.
@@ -171,17 +190,10 @@ Jul 2024 - Presente
 - Colaboración y Diseño: Trabajo junto con un equipo de desarrolladores y diseñadores, y aporto mis habilidades en Figma para el diseño de la interfaz.
 - Estado del Proyecto: El proyecto sigue en fase de desarrollo y está próximo a su lanzamiento.
 
-### Líder de Proyecto en Desarrollo de Aplicación Móvil
-
-**CoderMe**
-
-- Gestión y Coordinación: Responsable de la organización y coordinación eficiente de mi equipo.
-- Planificación Estratégica: Lideré la creación, planificación y ejecución del proyecto con Dart, Flutter y Git.
-- Tecnologías: Dart, Flutter, Git.
-
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=28&duration=3800&pause=300&color=0E70B6&vCenter=true&width=480&lines=Proyectos+destacados%3A)](https://git.io/typing-svg)
 
+- [BeSeen](https://www.beseen.vercel.app): Proyecto web de creacion de portafolios web para profesionistas.
 - [Portafolio](https://www.maudevp.tech): Mi portafolio es una aplicación creada con React y Next.js, diseñada para reflejar mi estilo personal y profesional. Ofrece una vista completa de mis proyectos y habilidades, con un diseño intuitivo y atractivo que destaca mi enfoque en el desarrollo.
 - [movie-home-page](https://github.com/MauDevp/movie-home-page): Movie-Home-Page es una aplicación React conectada a la API de The Movie Database para explorar películas populares y detalles
 - [WebStoreShopi](https://github.com/MauDevp/WebStoreShopi): Una tienda web para poner en practica mis skills de frontend developer
@@ -212,7 +224,7 @@ Jul 2024 - Presente
 
 ## En lo que estoy:
 
-### [Indigo](https://github.com/MauDevp/indigo)
+### [BeSeen](https://github.com/MauDevp/beseen)
 
 ---
 
